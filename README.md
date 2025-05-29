@@ -9,6 +9,7 @@ This is a console-based chatbot built using the Google Gemini API (gemini-1.5-fl
 1. **Clone the repo**
 
 git clone https://github.com/your-username/gemini-multi-turn-chat
+
 cd gemini-multi-turn-chat
 
 2. Install dependencies
